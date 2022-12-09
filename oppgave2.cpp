@@ -2,8 +2,9 @@
 using namespace std;
 
 int main() { 
-string setning;
+//string setning;
 cout << "Skriv ei setning: ";
-getline (cin, setning);
-cout << "Du skrev: " << setning;
+//getline (cin, setning);
+//cout << "Du skrev: " << setning;
+return 0;
 }
